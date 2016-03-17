@@ -1,0 +1,13 @@
+/vendor
+/node_modules
+/public/storage
+Homestead.yaml
+Homestead.json
+.env
+.idea/
+public/css/
+public/build/
+public/js/
+composer.lock
+resources/assets/sass/font-awesome/
+.vagrant/
